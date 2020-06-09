@@ -45,10 +45,11 @@ comments:
     issue_term           : # "pathname" (default)
   staticman:
     branch               : "master"
-    endpoint             : "https://annexation-staticman.herokuapp.com/v3/entry/github/"
+    endpoint             : "https://annexation-staticman.herokuapp.com/v2/connect/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6LfuigEVAAAAANCztc6of-H02PEY7ygI1_Sthg63"
+  secret                 : "sBioYSfdDC4vlyrSh3naY1tpUJpEbXECKofHTnfwHqEhV56BiQERXGO9J1dKe1AAiK/tD85PelgdV5Sk2Ut+n/6DXY7C2zpq4KQ9do6off8ebZqtSrjTuWNIUc1ePJrWBqxWLCXaaFLQ2/G74skJrL1E4U+syUqWUH9GhCWgiT8nkBPorFQdiMBva3XS/4UK1++2mqsMcvcnzZwOb4ii8Kxj5AhSqKnsMLNLocypXju4LfiRN5h/8USjTGFXGh/PorsBZ/cZGquvn4Wohds6GSLWAq8/quPqdyKDp7JcttyJF9vxebkNeHoj04549MUs20UEF89jzCKZyBaoGmJiqOLHDfmOhHvfAe29wMhnP1QXsVUPzVYM/CTFRLFFVtmmwo1uXNwUo9piVp9UEnX25rg2gTj6gX+swKAsKX/9poleTgteHW+TyOHx2n/dJZnOlLh+AE8g1rA/If88z/2JvOQnPwO7w5iUxwa59eua9VR0/DjTegu/GoBcnnhwq+4tHwdPC3YNFLB3dacEYoqUJmlK3h61YQNEM5G9okQkwgzG9QFz+zou4QnI6g7Hdzb4UBFK0X/9z9fBHYhe4Dv/nEjHVsviDnU0IB1nw15lwEeU3zDbm6kn6N0eOVkORDM9q7xe9x+WFs0QdPrSvVrRY4DxwtB5A37jyVX/nu28PWc="
+
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
@@ -92,31 +93,31 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+#author:
+#  name             : "Your Name"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "I am an **amazing** person."
+#  location         : "Somewhere"
+#  email            :
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      # url: "mailto:your.name@email.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      # url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
